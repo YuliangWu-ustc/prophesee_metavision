@@ -1,7 +1,8 @@
 # prophesee metavision SDK installation
 Guide for installing Prophesee Metavision SDK on ubuntu
 
-## Step1: Pull the Docker image on the Coder server and create a workspace (if installing directly on a local machine, ensure you are using Ubuntu 22.04):
+## Step1: Pull the Docker image on the Coder server and create a workspace 
+(if installing directly on a local machine, ensure you are using Ubuntu 22.04):
 
 ```docker pull ghcr.io/chjz1024/cuda:12.4.1-cudnn-runtime-ubuntu22.04 ```
 
