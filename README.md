@@ -10,8 +10,7 @@ Guide for installing Prophesee Metavision SDK on ubuntu
 ## Step 2: Add the APT repository:
 ```echo "deb [arch=amd64 trusted=yes] https://apt.prophesee.ai/dists/public/baiTh5si/ubuntu jammy sdk" | sudo tee /etc/apt/sources.list.d/prophesee-sdk.list```
 
-**Note**: If the above repository becomes invalid, please contact YuliangWu.
-If you have an account, get the repository by yourself:(https://support.prophesee.ai/portal/en/kb/articles/download-metavision-sdk-4-6)
+**Note**: If the above repository becomes invalid, get the repository by yourself:(https://support.prophesee.ai/portal/en/kb/articles/download-metavision-sdk-4-6)
 
 
 
